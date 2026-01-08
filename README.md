@@ -1,7 +1,7 @@
 # Imperium
 
 <p align="center">
-  <img src="assets/imp-trans.png" alt="Imperium logo" width="280">
+  <img src="assets/imp-trans.png" alt="Imperium logo" width="580">
 </p>
 
 > *"Command your commands."*
