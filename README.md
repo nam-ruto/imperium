@@ -1,10 +1,10 @@
 # Imperium
 
 <p align="center">
-  <img src="assets/imp-trans.png" alt="Imperium logo" width="580">
+  <img src="assets/imp-trans-1.svg" alt="Imperium logo" width="580">
 </p>
 
-> *"Command your commands."*
+> *"Manage your commands."*
 
 **Imperium** is a terminal-first command notebook for storing, discovering, and safely reusing shell commands.
 
