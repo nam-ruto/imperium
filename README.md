@@ -1,7 +1,12 @@
 # Imperium
 
 <p align="center">
-  <img src="assets/imp-trans-1.svg" alt="Imperium logo" width="580">
+  <!-- <img src="assets/imp-trans-1.svg" alt="Imperium logo" width="580"> -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/im-trans-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/imp-trans-light.svg">
+        <img src="assets/imp-trans-light.svg" alt="Imperium logo" width="580">
+    </picture>
 </p>
 
 > *"Manage your commands."*
