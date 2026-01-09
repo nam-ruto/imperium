@@ -7,28 +7,28 @@ var (
 	// Title style
 	TitleStyle = lipgloss.NewStyle().
 			Bold(true).
-			Foreground(lipgloss.Color("205"))
+			Foreground(lipgloss.Color("79"))
 
 	// Prompt style for the input line
 	PromptStyle = lipgloss.NewStyle().
 			Bold(true).
-			Foreground(lipgloss.Color("205"))
+			Foreground(lipgloss.Color("79"))
 
 	// Input box style with border
 	InputStyle = lipgloss.NewStyle().
 			BorderStyle(lipgloss.NormalBorder()).
-			BorderForeground(lipgloss.Color("205")).
+			BorderForeground(lipgloss.Color("79")).
 			Padding(0, 1)
 
 	// Header style for table headers (no background for transparency)
 	HeaderStyle = lipgloss.NewStyle().
 			Bold(true).
-			Foreground(lipgloss.Color("39"))
+			Foreground(lipgloss.Color("27"))
 
 	// Selected item style (reversed for visibility)
 	SelectedStyle = lipgloss.NewStyle().
-			Foreground(lipgloss.Color("229")).
-			Background(lipgloss.Color("57")).
+			Foreground(lipgloss.Color("233")).
+			Background(lipgloss.Color("248")).
 			Bold(true)
 
 	// Normal item style
